@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Ali 👋
+# Hi, I'm ALi MEHBOOB_rana
 
-### BSCS Student · n8n Automation Builder · AI/ML Enthusiast
+### BSCS Student ·  AI/ML Enthusiast . N8N Automation Builder ·
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+AI-powered+automation+workflows;n8n+%7C+RAG+Systems+%7C+Python+%7C+Automation;Turning+ideas+into+production+SaaS;Exploring+AI+%26+Embedded+Systems)](https://git.io/typing-svg)
 
