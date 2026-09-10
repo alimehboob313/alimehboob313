@@ -2,9 +2,9 @@
 
 # Hi, I'm ALi MEHBOOB_rana
 
-### BSCS Student ·  AI/ML Enthusiast . N8N Automation Builder ·
+### BSCS Student · AI/ML Enthusiast · SDET in Training . N8N Automation Builder
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+AI-powered+automation+workflows;n8n+%7C+RAG+Systems+%7C+Python+%7C+Automation;Turning+ideas+into+production+SaaS;Exploring+AI+%26+Embedded+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+AI-powered+automation+workflows;n8n+%7C+LangChain+%7C+RAG+Systems+%7C+Python;Testing+what+I+build%3A+Playwright+%2B+pytest+%2B+CI;Turning+ideas+into+production+SaaS)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-mehboob-rana-3244763ba/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alimehboobrana@gmail.com)
@@ -15,13 +15,16 @@
 
 ## 👨‍💻 About Me
 
-I'm a BSCS student at the **University of Education, Lahore**, building hands-on AI and automation experience through real client projects — using my brother's e-commerce brand **SneakDoc** as a live sandbox for testing what I build.
+I'm a BSCS student at the **University of Education, Lahore**, building hands-on AI, automation, and test-automation experience through real client projects — using my brother's e-commerce brand **SneakDoc** as a live sandbox for testing what I build.
 
-- 🔧 Currently building **n8n automation workflows** — SEO audits, lead generation, content pipelines
-- 🤖 Building **RAG-powered AI systems** (FastAPI + ChromaDB + Gemini embeddings)
-- 📚 Refreshing core Python/Data Science fundamentals via IBM's Coursera track
+
+- 🤖 Built a **RAG-powered AI chatbot** (FastAPI + ChromaDB + Gemini embeddings)
+- 🧪 Building an **SDET/test-automation portfolio project** — Playwright + pytest suite (Page Object Model) with GitHub Actions CI
+- 🔧 Built **n8n automation workflows** — SEO audits, lead generation, content pipelines
+- 🦜 Learning **LangChain** from the ground up — LLM wrappers, prompt templates, LCEL, structured output with Pydantic
+- 📜 Hold **three Anthropic certifications**, including a Generative AI Application Developer Certificate with "Promising Performer" distinction
 - 🔌 Also tinkering with **Arduino/ESP32** embedded systems on the side
-- 🎯 Goal: land an AI/ML or automation engineering internship in 2026/2027
+- 🎯 Goal: land an AI/ML, automation, or SDET engineering internship in 2026/2027
 
 ---
 
@@ -31,8 +34,12 @@ I'm a BSCS student at the **University of Education, Lahore**, building hands-on
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-6A5ACD?style=flat-square)
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
@@ -40,6 +47,9 @@ I'm a BSCS student at the **University of Education, Lahore**, building hands-on
 ---
 
 ## 🚀 Featured Projects
+
+### 🧪 [SneakDoc Test Suite (SDET)](https://github.com/alimehboob313/sneakdoc-test-suite)
+Automated test suite for SneakDoc built with Playwright (UI) and pytest, following the Page Object Model. Includes GitHub Actions CI running tests on every push to `main`. Built for SDET-track internship applications.
 
 ### 🤖 [SneakDoc RAG Chatbot](https://github.com/alimehboob313/sneakdoc-chatbot)
 Customer support chatbot for a sneaker-care e-commerce brand, built from scratch. FastAPI + ChromaDB + Gemini embeddings, deployed on Render with a JS widget embedded via WordPress. 51 semantic chunks across 24 products, with session-based conversation memory.
@@ -66,6 +76,6 @@ Lead-gen pipeline using the Google Places API to discover and qualify local busi
 
 <div align="center">
 
-*Open to AI/ML and automation engineering internships — let's connect!*
+*Open to AI/ML, automation, and SDET internships — let's connect!*
 
 </div>
