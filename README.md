@@ -18,10 +18,12 @@
 I'm a BSCS student at the **University of Education, Lahore**, building hands-on AI, automation, and test-automation experience through real client projects — using my brother's e-commerce brand **SneakDoc** as a live sandbox for testing what I build.
 
 
+- 💼 Currently interning on-site at **Stacks Mind Technologies**
 - 🤖 Built a **RAG-powered AI chatbot** (FastAPI + ChromaDB + Gemini embeddings)
+- 🦜 Learning **LangChain** and built my first project with it, **Internship Helper** — prompt templates, LCEL chains, and structured output with Pydantic
 - 🧪 Building an **SDET/test-automation portfolio project** — Playwright + pytest suite (Page Object Model) with GitHub Actions CI
 - 🔧 Built **n8n automation workflows** — SEO audits, lead generation, content pipelines
-- 🦜 Learning **LangChain** from the ground up — LLM wrappers, prompt templates, LCEL, structured output with Pydantic
+
 - 📜 Hold **three Anthropic certifications**, including a Generative AI Application Developer Certificate with "Promising Performer" distinction
 - 🔌 Also tinkering with **Arduino/ESP32** embedded systems on the side
 - 🎯 Goal: land an AI/ML, automation, or SDET engineering internship in 2026/2027
@@ -47,6 +49,9 @@ I'm a BSCS student at the **University of Education, Lahore**, building hands-on
 ---
 
 ## 🚀 Featured Projects
+
+### 🦜 [Internship Helper (LangChain)](https://github.com/alimehboob313/internship-helper)
+My first LangChain project. Compares a job description with a list of my skills and returns a structured match analysis (fit score, matching skills, gaps) using Pydantic structured output, then a second chain drafts a short cover letter that can only use the skills listed. Built with Python, LangChain, and Gemini.
 
 ### 🧪 [SneakDoc Test Suite (SDET)](https://github.com/alimehboob313/sneakdoc-test-suite)
 Automated test suite for SneakDoc built with Playwright (UI) and pytest, following the Page Object Model. Includes GitHub Actions CI running tests on every push to `main`. Built for SDET-track internship applications.
